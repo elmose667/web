@@ -1,0 +1,159 @@
+
+body {
+font-family: "New Amsterdam", sans-serif;
+
+	
+}
+
+
+
+.img1 {
+
+margin-left:270px;
+margin-top: -10px;	
+}	
+	
+
+.table1{
+	
+	margin-left: -10px;
+	margin-top: -385px;	
+	max-width: 200%
+	overflow-x: hidden;
+	position: sticky;
+	top: 0;
+
+
+
+}
+.img2{
+	margin-top: 68px;
+
+}
+
+
+.img3{
+	margin-top: 17px;
+
+}
+
+.table2 {
+	margin-top: -600px;
+
+	margin-left: 400px;
+	margin-right: auto;
+	max-width: 200%
+	overflow-x: hidden;
+
+	
+	
+
+}
+.table2:hover { 
+  
+	box-shadow: 0px 0px 3px 3px grey;
+	border: 1px
+	
+
+}
+
+.table3:hover { 
+  
+	box-shadow: 0px 0px 3px 3px grey;
+	border: 1px
+}
+.table4:hover { 
+  
+	box-shadow: 0px 0px 3px 3px grey;
+	border: 1px
+}
+
+.table5:hover { 
+  
+	box-shadow: 0px 0px 3px 3px grey;
+	border: 1px
+}
+
+.table6:hover { 
+  
+	box-shadow: 0px 0px 3px 3px grey;
+	border: 1px
+}
+
+.table7:hover { 
+  
+	box-shadow: 0px 0px 3px 3px grey;
+	border: 1px
+}
+
+
+.th3, .f2, .f3, .f5, .f6, .f7{ 
+  font-size: 26px;
+  font-weight: normal;
+	
+}
+
+.th4, .f22, .f33, .f55, .f66, .f77{ 
+  font-size: 33px;
+  font-weight: normal;
+	color: grey;
+	
+}
+
+.table3{
+	margin-top: -450px;
+
+	margin-left: 800px;
+	margin-right: auto;
+	max-width: 200%
+	overflow-x: hidden;
+
+
+}
+
+.table4{
+	margin-top: -454px;
+
+	margin-left: 1190px;
+	margin-right: auto;
+	max-width: 200%
+	overflow-x: hidden;
+
+
+}
+
+.table5{
+	margin-top: 80px;
+
+	margin-left: 400px;
+	margin-right: auto;
+	max-width: 200%
+	overflow-x: hidden;
+
+
+}
+
+.table6{
+	margin-top: -453px;
+
+	margin-left: 800px;
+	margin-right: auto;
+	max-width: 200%
+	overflow-x: hidden;
+
+
+}
+
+.table7{
+	margin-top: -453px;
+
+	margin-left: 1190px;
+	margin-right: auto;
+	max-width: 200%
+	overflow-x: hidden;
+
+
+}
+
+
+
